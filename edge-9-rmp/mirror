@@ -1,9 +1,9 @@
 # Define IP addresses for list of Planet nodes
 [all]
-apigee_010 ansible_host=10.x.x.x
+apigee_009 ansible_host=10.x.x.x
 
 [mirror]
-apigee_010
+apigee_009
 
 # NO MODIFICATIONS BELOW THIS LINE ARE NECESSARY
 [dc_1:children]
